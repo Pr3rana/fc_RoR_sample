@@ -1,0 +1,2 @@
+module FusionchartsHelper
+end
