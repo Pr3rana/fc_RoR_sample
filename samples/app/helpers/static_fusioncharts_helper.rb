@@ -1,0 +1,2 @@
+module StaticFusionchartsHelper
+end
